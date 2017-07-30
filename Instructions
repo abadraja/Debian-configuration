@@ -12,3 +12,10 @@ sudo apt-get install -y git subversion;
 sudo apt-get install -y gdebi;
 sudo apt-get install -y gparted pitivi;
 
+Tools:
+  Sublime Text: 	
+  wget http://c758482.r82.cf2.rackcdn.com/sublime-text_build-3083_amd64.deb;
+  sudo dpkg -i sublime-text_build-3083_amd64.deb
+  
+  Virtual Box:
+  https://www.linuxbabe.com/debian/install-virtualbox-debian-9-stretch
