@@ -19,3 +19,31 @@ Tools:
   
   Virtual Box:
   https://www.linuxbabe.com/debian/install-virtualbox-debian-9-stretch
+  sudo apt-get install dkms;
+
+
+Theme:
+  sudo apt-get install -y murrine-themes;
+  sudo apt-get install -y docky;
+  su -;
+mkdir ~/numix;
+cd ~/numix;
+git clone https://github.com/cldx/numix-gtk-theme ;
+git clone https://github.com/numixproject/numix-icon-theme ;
+git clone https://github.com/numixproject/numix-icon-theme-circle ;
+cd ~;
+mkdir .icons .themes;
+cp -R numix/numix-gtk-theme .themes/ ;
+cp -R numix/numix-icon-theme/Numix .icons/ ;
+cp -R numix/numix-icon-theme-circle/Numix-Circle .icons/ ;
+=> Set in tweak tool : GTK + : Adwaiata-dark  :: Icons : Numix-circle
+
+ZSH part :
+sudo apt-get install zsh;
+
+
+
+
+
+
+
