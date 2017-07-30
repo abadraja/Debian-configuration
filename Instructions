@@ -1,5 +1,4 @@
-Things to do just after installing Debian : http://milq.github.io/things-to-do-just-after-installing-ubuntu-debian/
-
+Source : http://milq.github.io/things-to-do-just-after-installing-ubuntu-debian/
 
 sudo apt-get -y update;
 sudo apt-get -y upgrade;
