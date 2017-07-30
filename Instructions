@@ -40,7 +40,7 @@ cp -R numix/numix-icon-theme-circle/Numix-Circle .icons/ ;
 
 ZSH part :
 sudo apt-get install zsh;
-
+sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)";
 
 
 
