@@ -1,1 +1,15 @@
 Things to do just after installing Debian : http://milq.github.io/things-to-do-just-after-installing-ubuntu-debian/
+
+
+sudo apt-get -y update;
+sudo apt-get -y upgrade;
+sudo apt-get -y dist-upgrade;
+sudo apt-get -y autoremove;
+sudo apt-get install -y build-essential cmake;
+sudo apt-get install -y p7zip p7zip-full unrar-free unzip;
+sudo apt-get install -y screen;
+sudo apt-get install -y nano vim;
+sudo apt-get install -y git subversion;
+sudo apt-get install -y gdebi;
+sudo apt-get install -y gparted pitivi;
+
